@@ -1,7 +1,7 @@
 #include <iostream>
 #include <math.h>
 #include <windows.h>
-
+//C_Rtr
 	using namespace std;
 
 	HANDLE h= GetStdHandle ( STD_OUTPUT_HANDLE ) ;
@@ -10,7 +10,7 @@ void g () { SetConsoleTextAttribute ( h , 2 ) ; } //green
 
 void wi () { SetConsoleTextAttribute ( h , 7 ) ; } //white
 
-void cy () { SetConsoleTextAttribute ( h , 3 ) ; } //cyan
+void cy () { SetConsoleTextAttribute ( h , 3 ) ; } //cyan = light blue
 
 void re () { SetConsoleTextAttribute ( h , 4 ) ; } //red
 
@@ -35,7 +35,7 @@ int main() {
 	bar	() ;
 		g () ;
 		cout << "\t Multi-Convertor \n" ;
-		
+	// Calculation mode	
 	bar	() ;
 		cout << " Press number 1 for Wieght \n" ;
 		cout << " Press number 2 for Liquid Value \n" ;
