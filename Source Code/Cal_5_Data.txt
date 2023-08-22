@@ -1,0 +1,100 @@
+Base Unit
+
+	Tera
+	-
+	-
+	Giga
+	-
+	-
+	Mega
+	-
+	-
+	Kilo
+	Hecto
+	Deca
+	Base unit
+	Deci
+	Centi
+	Milli
+
+Normal Unit
+
+		Wieght		Liquid Value		Length
+1b		t
+--100m------
+--10m--------
+1m		kg				kl			km
+100k		hecto-g			hecto-l		hecto-m
+10k		deca-g			deca-l		deca-m
+1k		g				l			m
+100		dg				dl			dm
+10		cg				cl			cm
+1		mg				ml			mm
+
+Suface Area = Square = Plain ( 1m^2 = 100dm^2 )
+	14
+1	 y
+2	 |
+3	 |
+4	+---------+
+5	 |	      |
+6	+---------+-------- x
+
+1 k k k k			km^2
+	-
+10 k k k			Hecto-m^2 = h
+	-
+100 k k			Deca-m^2
+	-
+1 k k				m^2
+	-
+10 k				dm^2
+	-
+100				cm^2
+	-
+1				mm^2
+
+ ( 1m^3 = 1000 dm^3 )
+
+1		z
+2		 |
+3		 |______ x
+4	        /
+5	       /
+6	     y
+
+						Km^3
+	-
+	-
+						Hecto-m^3
+	-
+	-
+						Deca-m^3
+	-
+	-
+						m^3
+	-
+	-
+1kk						dm^3
+	-	
+	-
+1k						cm^3
+	-
+	-
+1						mm^3
+
+Compter file size ( 1byte = 4bits)
+
+	TB
+	-
+	-
+	GB
+	-
+	-
+	MB
+	-
+	-
+	KB
+	-
+	-
+	B
